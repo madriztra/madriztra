@@ -5,7 +5,7 @@ I'm a Front-End Web Developer
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://madriztra.my.id/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://madriztra.my.id/](https://madriztra-portfolio.netlify.app/))
 
 [![instagram](https://img.shields.io/badge/instagram-D317C5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instargram.com/madriztra)
 
