@@ -1,6 +1,4 @@
-<div align="center">
-![](https://raw.githubusercontent.com/madriztra/gif/refs/heads/main/giphy.gif)
-</div>
+### <div align="center"> ![](https://raw.githubusercontent.com/madriztra/gif/refs/heads/main/giphy.gif) </div>
 
 ### <div align="center">I'm Rizki, a full-stack web developer 👨‍💻</div>  
   
