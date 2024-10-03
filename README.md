@@ -1,5 +1,5 @@
 
-![](https://github.com/madriztra/giphy.gif)
+![](https://raw.githubusercontent.com/madriztra/gif/refs/heads/main/giphy.gif)
   
 
 ### <div align="center">I'm Rizki, a full-stack web developer 👨‍💻</div>  
