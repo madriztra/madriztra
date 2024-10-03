@@ -20,7 +20,7 @@
 <a href="https://dev.to/madriztra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="madriztra" height="30" width="40" /></a>
 <a href="https://instagram.com/shinkilofi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shinkilofi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@shinkilofi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shinkilofi" height="30" width="40" /></a>
-<a href="https://open.spotify.com/artist/2VcZj0AtRVGWflTr2I6MYd?si=16f4d9287be1423c" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="@shinkilofi" height="40" width="40" /></a>
+<a href="https://open.spotify.com/artist/2VcZj0AtRVGWflTr2I6MYd?si=16f4d9287be1423c" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="@shinkilofi" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
