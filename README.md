@@ -117,9 +117,7 @@
   
 
 <br/>  
-### <div align="center">
-### [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qvhn7zk3zg2foalijtf6gjvnoy&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qvhn7zk3zg2foalijtf6gjvnoy&redirect=true)
-### </div>  
+### <div align="center">[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qvhn7zk3zg2foalijtf6gjvnoy&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qvhn7zk3zg2foalijtf6gjvnoy&redirect=true)</div>  
 
 
 <br/>  
