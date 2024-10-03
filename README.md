@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://giphy.com/embed/ieBWQkIVEELhbizGAp" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen align="center" height="" width="600" />
+![]([https://github.com/madriztra/giphy.gif](https://github.com/madriztra/gif/blob/main/giphy.gif))
 </div>  
   
 
@@ -121,7 +121,7 @@
 
 <br/>  
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2VcZj0AtRVGWflTr2I6MYd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
