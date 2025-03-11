@@ -2,7 +2,11 @@
 
 ### <div align="center">I'm Rizki, a full-stack web developer 👨‍💻</div>  
 
-<div align="center">![Touch My Portfolio](https://madriztra.netlify.app/)</div>  
+<div align="center">
+  <a href="https://madriztra.netlify.app/">
+    Touch My Portfolio
+  </a>
+</div>
 
   
 
