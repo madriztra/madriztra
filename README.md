@@ -2,7 +2,8 @@
 
 ### <div align="center">I'm Rizki, a full-stack web developer 👨‍💻</div>  
 
-[My Portfolio](https://madriztra.netlify.app/)
+<div align="center">[Touch My Portfolio](https://madriztra.netlify.app/)</div>  
+
   
 
 - 🔭 I’m currently studying on Islamic University of Riau  
